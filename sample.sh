@@ -1,1 +1,1 @@
-sample web
+echo "Hello, Happy World!"
