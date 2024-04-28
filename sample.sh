@@ -1,2 +1,2 @@
 echo "Hello, Happy World!"
-echo "Edit from Mac!"
+echo "Edit from Mac"
